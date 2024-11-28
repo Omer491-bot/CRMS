@@ -1,0 +1,25 @@
+﻿  CardPayment.cpp
+  CustomerFeedback.cpp
+  ManageCustomer.cpp
+  MyForm.cpp
+C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\ManageCustomer.h(316,17): error C2440: '=': cannot convert from 'const wchar_t [15]' to 'System::Windows::Forms::DataGridViewTextBoxColumn ^'
+  (compiling source file 'ManageCustomer.cpp')
+      C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\ManageCustomer.h(316,17):
+      Reason: cannot convert from 'const wchar_t *' to 'System::Windows::Forms::DataGridViewTextBoxColumn ^'
+      C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\ManageCustomer.h(316,17):
+      No user-defined-conversion operator available, or
+      C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\ManageCustomer.h(316,17):
+      Cannot convert a native type to a managed type
+  
+C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\MyForm.cpp(1,10): error C1083: Cannot open include file: 'MyForm.h': No such file or directory
+  MyForm1.cpp
+C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\MyForm1.cpp(1,10): error C1083: Cannot open include file: 'MyForm1.h': No such file or directory
+  MyForm11.cpp
+C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\MyForm11.cpp(1,10): error C1083: Cannot open include file: 'MyForm11.h': No such file or directory
+  MyForm2.cpp
+C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\MyForm2.cpp(1,10): error C1083: Cannot open include file: 'MyForm2.h': No such file or directory
+  MyForm3.cpp
+C:\Users\hp\source\repos\CRMS (car rental managment system)\CRMS (car rental managment system)\MyForm3.cpp(1,10): error C1083: Cannot open include file: 'MyForm3.h': No such file or directory
+  Payment.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
